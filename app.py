@@ -73,12 +73,11 @@ if st.session_state.page == "beranda":
     st.markdown("""
 
 ### Dibuat oleh kelompok 1:
-- Amir Nur Rauf
-- Annisa Zahra Syaepudin
-- Khaila Syahira Harpil
-- Rafly Asyqar Priana
-- Reinasty Vrilia Putri
-
+- Amir Nur Rauf (2420571)
+- Annisa Zahra Syaepudin (2420574)
+- Khaila Syahira Harpil (2420609)
+- Rafly Asyqar Priana (2420644)
+- Reinasty Vrilia Putri (2420650)
 
 Aplikasi ini membantu menghitung kadar vitamin dalam MPASI bayi berdasarkan bahan makanan, berat (gram), dan usia bayi.
 
