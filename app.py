@@ -77,6 +77,7 @@ if st.session_state.page == "beranda":
 - Annisa Zahra Syaepudin
 - Khaila Syahira Harpil
 - Rafly Asyqar Priana
+- Reinasty Vrilia Putri
 
 Aplikasi ini membantu menghitung kadar vitamin dalam MPASI bayi berdasarkan bahan makanan, berat (gram), dan usia bayi.
 
