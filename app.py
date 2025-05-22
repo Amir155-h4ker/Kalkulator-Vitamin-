@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
 
+# Konfigurasi halaman
+st.set_page_config(page_title="Kalkulator Vitamin MPASI", layout="wide")
+
 st.markdown("""
     <style>
     .stApp {
@@ -13,9 +16,6 @@ st.markdown("""
     }
     </style>
     """, unsafe_allow_html=True)
-
-# Konfigurasi halaman
-st.set_page_config(page_title="Kalkulator Vitamin MPASI", layout="wide")
 
 # Fungsi untuk navigasi halaman
 def set_page(page_name):
