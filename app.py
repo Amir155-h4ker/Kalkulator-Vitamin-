@@ -69,8 +69,15 @@ def estimasi_porsi(usia_bulan):
 
 # ===================== BERANDA =====================
 if st.session_state.page == "beranda":
-    st.title("👶 Selamat Datang di Aplikasi Kalkulator Vitamin MPASI 🍽️ (Dibuat oleh kelompok 1)")
+    st.title("👶 Selamat Datang di Aplikasi Kalkulator Vitamin MPASI 🍽️")
     st.markdown("""
+
+### Dibuat oleh kelompok 1:
+- Amir Nur Rauf
+- Annisa Zahra Syaepudin
+- Khaila Syahira Harpil
+- Rafly Asyqar Priana
+
 Aplikasi ini membantu menghitung kadar vitamin dalam MPASI bayi berdasarkan bahan makanan, berat (gram), dan usia bayi.
 
 ### Fitur:
