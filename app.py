@@ -8,7 +8,7 @@ st.markdown("""
     <style>
     .stApp {
         background: linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)),
-                    url('https://images.app.goo.gl/Kv61tsNkuJr4X14N7');
+                    url('https://www.ibudanbalita.com/uploads/posts/L4wjuys0pE.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
