@@ -8,7 +8,7 @@ st.markdown("""
     <style>
     .stApp {
         background: linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)),
-                    url('https://img.freepik.com/free-photo/person-paying-using-nfc-technology_23-2149893740.jpg');
+                    url('https://images.app.goo.gl/Kv61tsNkuJr4X14N7');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
