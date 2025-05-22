@@ -79,6 +79,7 @@ if st.session_state.page == "beranda":
 - Rafly Asyqar Priana
 - Reinasty Vrilia Putri
 
+
 Aplikasi ini membantu menghitung kadar vitamin dalam MPASI bayi berdasarkan bahan makanan, berat (gram), dan usia bayi.
 
 ### Fitur:
